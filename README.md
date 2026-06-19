@@ -7,4 +7,4 @@ Small exercises to get you used to reading and writing Rust code - Recommended i
 
 Visit the website for a demo, info about setup and more:
 
-➡️ rustlings.rust-lang.org ⬅️
+**![](➡️ rustlings.rust-lang.org ⬅️)**
